@@ -1,0 +1,6 @@
+{
+  "name": "SkyDash",
+  "description": "An autonomous drone delivery platform simulating real-time telemetry, routing, airspace map management, and customer/admin control hubs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
